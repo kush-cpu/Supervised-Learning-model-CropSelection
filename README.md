@@ -172,8 +172,8 @@ Copy@misc{crop_prediction_ml,
 }
 Contact
 
-Your Name
-Email: your.email@example.com
+Kushagra
+Email: kushagranigam550@gmail.com
 Project Link: [GitHub Repository URL]
 
 Acknowledgments
